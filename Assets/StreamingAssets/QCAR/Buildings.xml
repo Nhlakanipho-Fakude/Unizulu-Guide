@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="road13" size="200.000000 333.333344" />
+    <ImageTarget name="road12" size="200.000000 333.333344" />
+    <ImageTarget name="road11" size="200.000000 333.333344" />
+    <ImageTarget name="road10" size="200.000000 333.333344" />
+    <ImageTarget name="road9" size="200.000000 121.185188" />
+    <ImageTarget name="road8" size="200.000000 183.703705" />
+    <ImageTarget name="road7" size="200.000000 333.333344" />
+    <ImageTarget name="road6" size="200.000000 174.518524" />
+    <ImageTarget name="road5" size="200.000000 130.074081" />
+    <ImageTarget name="road4" size="200.000000 166.518524" />
+    <ImageTarget name="road3" size="200.000000 97.185188" />
+    <ImageTarget name="road2" size="200.000000 87.703705" />
+    <ImageTarget name="road1" size="200.000000 110.755150" />
+    <ImageTarget name="d3baba" size="100.000000 114.366196" />
+    <ImageTarget name="Picture1" size="200.000000 378.995422" />
+    <ImageTarget name="front1" size="200.000000 157.241379" />
+    <ImageTarget name="src2" size="300.000000 140.199997" />
+    <ImageTarget name="src1" size="300.000000 161.340942" />
+    <ImageTarget name="all" size="300.000000 117.004677" />
+    <ImageTarget name="ad" size="300.000000 202.055618" />
+    <ImageTarget name="chap" size="300.000000 180.000000" />
+    <ImageTarget name="chapel" size="300.000000 180.000000" />
+    <ImageTarget name="libre" size="300.000000 190.011749" />
+    <ImageTarget name="library" size="300.000000 148.933151" />
+    <ImageTarget name="admin_b" size="300.000000 152.766388" />
+    <ImageTarget name="bhekuzulu" size="300.000000 180.000000" />
+    <ImageTarget name="main_gate_exit" size="300.000000 168.750000" />
+    <ImageTarget name="main_gate" size="300.000000 168.750000" />
+    <ImageTarget name="admin" size="10.000000 16.666666" />
+    <ImageTarget name="bz" size="200.000000 84.498482" />
+    <ImageTarget name="office" size="300.000000 186.585373" />
+    <ImageTarget name="offices" size="300.000000 156.835449" />
+    <ImageTarget name="dblock" size="100.000000 131.081085" />
+    <ImageTarget name="hydro" size="100.000000 98.391418" />
+    <ImageTarget name="road" size="100.000000 166.666672" />
+    <ImageTarget name="sideBlock" size="100.000000 213.913040" />
+    <ImageTarget name="Capture" size="2000.000000 2588.588623" />
+  </Tracking>
+</QCARConfig>
