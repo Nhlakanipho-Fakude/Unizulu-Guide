@@ -4,5 +4,4 @@ The purpose of this project was to enable students to see University of Zululand
 
 What the application provided was the ability to know how many offices and the owners in a certain building. If the user is interested in knowing more about the owner of an office, they simply query the app to retrieve information about that person
 
-Here is a demonstration:
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/E-uxf2WcH_U/0.jpg)](https://youtu.be/E-uxf2WcH_U)
+[![https://img.youtube.com/vi/E-uxf2WcH_U/0.jpg](http://img.youtube.com/vi/E-uxf2WcH_U/0.jpg)](http://www.youtube.com/watch?v=E-uxf2WcH_U "Vuforia and Unity3d = Unizulu Building recognition Android App")
